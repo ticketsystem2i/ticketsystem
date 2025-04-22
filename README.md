@@ -8,7 +8,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 
 👤 Atribuiçãoo de tickets a usuários
 
-🔄 Atualização do estado do ticket (🟢 Aberto, 🟡 Em andamento, 🔵 Resolvido, 🔴 Fechado)
+🔄 Atualização do estado do ticket (🟢 Aberto, 🟡 Em andamento, 🔴 Fechado)
 
 💬 Comentários nos tickets
 
