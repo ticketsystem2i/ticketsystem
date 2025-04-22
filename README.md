@@ -1,9 +1,9 @@
-🎟️ Sistema de Tickets
+# 🎟️ Sistema de Tickets
 
-- 📌 Descrição
+## 📌 Descrição
 Este é um sistema de tickets desenvolvido para gerenciar solicitações de suporte, incidentes e tarefas. Ele permite a criação, edição, atribuição e resoluçãoo de tickets, facilitando a organizaçãoo e o atendimento.
 
-- ✨ Funcionalidades
+## ✨ Funcionalidades
 📝 Criação de tickets com título, descrição e prioridade
 
 👤 Atribuiçãoo de tickets a usuários
@@ -16,7 +16,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 
 🔍 Filtros e pesquisa de tickets
 
-- 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 💻 Linguagem: PHP
 
 🏗️ Framework: 
@@ -27,8 +27,8 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 
 🔑 Autenticaçãoo: Gerenciamento de sessões em PHP
 
-- 🚀 Como Executar o Projeto
-⚙️ Backend
+## 🚀 Como Executar o Projeto
+### ⚙️ Backend
 Clone o repositório:
 
 bash
@@ -49,7 +49,7 @@ Atualize as variáveis de conexão (DB_HOST, DB_USER, DB_PASS, DB_NAME) conforme
 
 Hospede os arquivos em um servidor com suporte a PHP e MySQL
 
-- 🎨 Frontend
+### 🎨 Frontend
 Acesse a página de login:
 
 arduino
