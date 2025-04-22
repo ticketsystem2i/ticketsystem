@@ -45,7 +45,7 @@ Configure a conexão com o banco de dados:
 
 Abra o arquivo config.php
 
-Atualize as variáveis de conexão (DB_HOST, DB_USER, DB_PASS, DB_NAME) conforme suas configura��es
+Atualize as variáveis de conexão (DB_HOST, DB_USER, DB_PASS, DB_NAME) conforme suas configurações
 
 Hospede os arquivos em um servidor com suporte a PHP e MySQL
 
