@@ -6,7 +6,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 ## ✨ Funcionalidades
 📝 Criação de tickets com título, descrição e prioridade
 
-👤 Atribuiçãoo de tickets a usuários
+👤 Atribuição de tickets a usuários
 
 🔄 Atualização do estado do ticket (🟢 Aberto, 🟡 Em andamento, 🔴 Fechado)
 
