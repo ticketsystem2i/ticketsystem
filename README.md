@@ -19,7 +19,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 ## 🛠️ Tecnologias Utilizadas
 💻 Linguagem: PHP
 
-🏗️ Framework: 
+🏗️ Framework:  
 
 🗄️ Banco de Dados: MySQL
 
