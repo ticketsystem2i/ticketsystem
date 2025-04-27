@@ -21,6 +21,11 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 
 🔑 Autenticação: Gerenciamento de sessões em PHP
 
+
+## 📂 Estrutura de Fichieros
+```bash
+
+```
 ## 🚀 Como Executar o Projeto
 ### ⚙️ Backend
 Clone o repositório:
