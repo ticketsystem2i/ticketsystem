@@ -21,11 +21,6 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 
 🔑 Autenticação: Gerenciamento de sessões em PHP
 
-
-## 📂 Estrutura de Fichieros
-```bash
-
-```
 ## 🚀 Como implementar o projeto
  1. Aceder ao [Alojamento Grátis](http://www.alojamento-gratis.com/?i=1).
   2. Clicar em "alojamento web grátis", na navbar no topo da página. <b>Observação</b>: Se tiveres conta criada podes <b>saltar para o passo 6.2.</b>
