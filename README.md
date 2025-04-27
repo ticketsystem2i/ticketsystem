@@ -81,12 +81,10 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
   <img src="https://drive.google.com/uc?export=view&id=1sGkC6XqHvDqQzly6TnAT6Opo-SFo1C5R" alt="Pasta com os ficheiros" width="500">
   <img src="https://drive.google.com/uc?export=view&id=1dO1331fF_3EUQXTJrUCTrXin1f8WQuVa" alt="Codigo do ficherio conn.php" width="500">
 
-  16. Para acabar deves aceder a página web, o link está no email enviado, ao criar a conta. <b>Observação</b>: Tem que colocar, depois do fim do link, o seguinte complemento "/nome da pasta/nome do ficheiro(neste caso "admin_page.php")" <br>
+  16. Para acabar deves aceder a página web, o link está no email enviado, ao criar a conta. <b>Observação</b>: Tem que colocar, depois do fim do link, o seguinte complemento "/nome da pasta/nome do ficheiro (neste caso "login.php")" <br>
   <br>
-  <img src="https://drive.google.com/uc?export=view&id=1lEAJFeYC2xduj8Egz_KpQYF6K4yP1sL_" alt="Link" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1l_R_tE8da6s8e9HvGkDegjVC8YS1pxSk" alt="Link" width="500">
   17. Ver <a href="http://ticketsystem.alojamento-gratis.com/tickets/login.php" target="_blank">resultado final</a>. <br>
   <br>
-
-
-  
+  <br>
   Feito por João Martins - Líder/Fluxo (a14486) || Simão Ribeiro - Uploads/Documentação (a14549) || Francisco Martins - Backend/Status (a14568) || Francisco Rosas - Frontend/UI (a14598)
