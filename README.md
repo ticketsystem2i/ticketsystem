@@ -79,7 +79,8 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
   15. Ir ao "Online File Maneger", ir a pasta em que colocou os ficheiros e abrir o ficheiro config.php e colocar os dados de acesso a base de dados. <b>Observação</b>: No MySQL Database, o primeiro campo representa o último campo do ficheiro config.php, o último campo do MySQL representa o primeiro campo do ficheiro.php e os dois campos do meio mantêm-se igual, por fim deve <b>salvar o ficheiro</b> config.php. <br>
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1sGkC6XqHvDqQzly6TnAT6Opo-SFo1C5R" alt="Pasta com os ficheiros" width="500">
-  <img src="https://drive.google.com/uc?export=view&id=1V7JXsBCg7fHhZNZ6OtNIukvXxXVo2qm-" alt="Codigo do ficherio conn.php" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1dO1331fF_3EUQXTJrUCTrXin1f8WQuVa" alt="Codigo do ficherio conn.php" width="500">
+
   16. Para acabar deves aceder a página web, o link está no email enviado, ao criar a conta. <b>Observação</b>: Tem que colocar, depois do fim do link, o seguinte complemento "/nome da pasta/nome do ficheiro(neste caso "admin_page.php")" <br>
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1lEAJFeYC2xduj8Egz_KpQYF6K4yP1sL_" alt="Link" width="500">
