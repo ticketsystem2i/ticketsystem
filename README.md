@@ -71,7 +71,8 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
   <img src="https://drive.google.com/uc?export=view&id=1iQib6GQXbVnppX2yfYipxXr4a69_Zo6Z" alt="Clicar em importar" width="500">
   13. Clicar no botão "Escolher ficheiro" e selecionar o ficheiro .sql, que foi disponibilizado. <br>
   <br>
-  <img src="https://drive.google.com/uc?export=view&id=1Ft7focfXe-zpuaiUbxr7BnNKS_28Swpt" alt="Ficherio selecionado" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1nisV1PL53Nsb-YsBbOM-mc9tUFVCoi1q" alt="Ficheiro selecionado" width="500">
+
   14. Voltar ao menu "MySQL Database", para verificar os dados de acesso da base de dados.
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1iwMVL6p_3w4t2shvujd6AIkQSZ-_QyXp" alt="Verificar os dados" width="500">
