@@ -56,7 +56,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
   <img src="https://drive.google.com/uc?export=view&id=1rffW5CIUvqPRgqxtTnCzV1hokIRsSa8Y" alt="Clicar em Online File Maneger" width="500">
   8. Criar uma nova pasta dentro da htdocs ou usar a pasta htdocs para colocar os ficheiros, exeto o ficheiro da base de dados. <br>
   <br>
-  <img src="https://drive.google.com/uc?export=view&id=1sGkC6XqHvDqQzly6TnAT6Opo-SFo1C5R" alt="Descrição da imagem" />
+  <img src="https://drive.google.com/uc?export=view&id=1sGkC6XqHvDqQzly6TnAT6Opo-SFo1C5R" alt="Pasta com os ficheiros" width="500">
   9. Voltar ao CPanel e clicar em "MySQL Databases". <br>
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1VLeIX5f3RTCRQedCHipZYo0yEbvuXNQx" alt="Clicar em MySQL" width="500">
