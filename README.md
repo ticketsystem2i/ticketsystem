@@ -4,13 +4,11 @@
 Este é um sistema de tickets desenvolvido para gerenciar solicitações de suporte, incidentes e tarefas. Ele permite a criação, edição, atribuição e resolução de tickets, facilitando a organização e o atendimento.
 
 ## ✨ Funcionalidades
-📝 Criação de tickets com título, descrição e prioridade
+📝 Criação de tickets com título, descrição, prioridade, Área e Estado
 
 👤 Atribuição de tickets a áreas de trabalho (Programação, Manutenção etc...)
 
 🔄 Atualização do estado do ticket (🟢 Aberto, 🟡 Em andamento, 🔴 Fechado)
-
-🔔 Notificações para mudanças de estado do ticket
 
 🔍 Filtros e pesquisa de tickets
 
