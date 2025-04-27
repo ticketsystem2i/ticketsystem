@@ -65,7 +65,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
   <img src="https://drive.google.com/uc?export=view&id=17otBVYmhWGazTF8GJWli035IIgbiBil-" alt="Criar base de dados" width="500">
   11. Clicar no botão admin, respetivo a base de dados criada, na tabela em baixo. <br>
   <br>
-  <img src="https://drive.google.com/uc?export=view&id=1JZ_EOcIt9TZoKBEwL8ecE0Tm3SfFGEDm" alt="Clicar e admin" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1BQ4sI-yIMEBQ5x02PMfar554wY9l0W9g" alt="Clicar em admin" width="500">
   12. Clicar em "Importar", na navbar. <br>
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1t9UkkssbLP4DfAWlQpPjx5FrAlseiZr8" alt="Clicar em importar" width="500">
