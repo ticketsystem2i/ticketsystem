@@ -68,7 +68,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
   <img src="https://drive.google.com/uc?export=view&id=1BQ4sI-yIMEBQ5x02PMfar554wY9l0W9g" alt="Clicar em admin" width="500">
   12. Clicar em "Importar", na navbar. <br>
   <br>
-  <img src="https://drive.google.com/uc?export=view&id=1t9UkkssbLP4DfAWlQpPjx5FrAlseiZr8" alt="Clicar em importar" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1iQib6GQXbVnppX2yfYipxXr4a69_Zo6Z" alt="Clicar em importar" width="500">
   13. Clicar no botão "Escolher ficheiro" e selecionar o ficheiro .sql, que foi disponibilizado. <br>
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1Ft7focfXe-zpuaiUbxr7BnNKS_28Swpt" alt="Ficherio selecionado" width="500">
