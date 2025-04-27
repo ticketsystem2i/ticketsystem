@@ -1,7 +1,7 @@
 # 🎟️ Sistema de Tickets
 
 ## 📌 Descrição
-Este é um sistema de tickets desenvolvido para gerenciar solicitações de suporte. Ele permite a criação, edição, eliminação e visualização de tickets, de varias visões diferentes.
+Este é um sistema de tickets desenvolvido para gerenciar solicitações de suporte. Este sistema permite a criação, edição, eliminação e visualização de tickets, de varias visões diferentes.
 
 ## ✨ Funcionalidades
 📝 Criação de tickets com título, descrição, prioridade, Área e Estado
@@ -13,11 +13,11 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 🔍 Filtros e pesquisa de tickets
 
 ## 🛠️ Tecnologias Utilizadas
-💻 Linguagem: PHP
-
-🗄️ Banco de Dados: MySQL
+💻 Backend: PHP
 
 🎨 Frontend: HTML, CSS
+
+🗄️ Banco de Dados: MySQL
 
 🔑 Autenticação: Gerenciamento de sessões em PHP
 
