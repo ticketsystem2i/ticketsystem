@@ -1,7 +1,7 @@
 # 🎟️ Sistema de Tickets
 
 ## 📌 Descrição
-Este é um sistema de tickets desenvolvido para gerenciar solicitações de suporte, incidentes e tarefas. Ele permite a criação, edição, atribuição e resolução de tickets, facilitando a organização e o atendimento.
+Este é um sistema de tickets desenvolvido para gerenciar solicitações de suporte. Ele permite a criação, edição, eliminação e visualização de tickets, de varias visões diferentes.
 
 ## ✨ Funcionalidades
 📝 Criação de tickets com título, descrição, prioridade, Área e Estado
