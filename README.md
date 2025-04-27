@@ -62,7 +62,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
   <img src="https://drive.google.com/uc?export=view&id=1VLeIX5f3RTCRQedCHipZYo0yEbvuXNQx" alt="Clicar em MySQL" width="500">
   10. Dar um nome a base de dados e clicar no botão "Create Database". <br>
   <br>
-  <img src="https://drive.google.com/uc?export=view&id=1jTvg5Q8bYA4Rl_-xPnJI_KM0LfOq4sGq" alt="Criar base de dados" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=17otBVYmhWGazTF8GJWli035IIgbiBil-" alt="Criar base de dados" width="500">
   11. Clicar no botão admin, respetivo a base de dados criada, na tabela em baixo. <br>
   <br>
   <img src="https://drive.google.com/uc?export=view&id=1JZ_EOcIt9TZoKBEwL8ecE0Tm3SfFGEDm" alt="Clicar e admin" width="500">
