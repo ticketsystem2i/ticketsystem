@@ -21,6 +21,25 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 
 🔑 Autenticação: Gerenciamento de sessões em PHP
 
+## 🗂️ Estrutura de Ficheiros
+
+```bash
+├── /css/                     # Pasta que guarda o ficheiro .css
+      ├── style.css           # Ficheiro .css (estilo da página web)
+├── /db/                      # Pasta que guarda o ficheiro .sql 
+      ├── cart_db.sql         # Ficheiro .sql (base de dados)
+├── /images/                  # Pasta que guarda as imagens que podem ser usadas na página web(opcional)
+      ├── food-1.png          # Ficheiro da foto
+      ├── food-2.png          # Ficheiro da foto
+      ├── food-3.png          # Ficheiro da foto
+      ├── food-4.png          # Ficheiro da foto
+      ├── food-5.png          # Ficheiro da foto
+├── /uploaded_img/            # Pasta que guarda as imagens que forem enviadas para a base de dados
+├── admin_page.php            # Ficheiro principal
+├── admin_update.php          # Ficheiro para dar update de um produto
+└── config.php                # Ficheiro para conectar à base de dados
+```
+
 ## 🚀 Como implementar o projeto
  1. Aceder ao [Alojamento Grátis](http://www.alojamento-gratis.com/?i=1).
   2. Clicar em "alojamento web grátis", na navbar no topo da página. <b>Observação</b>: Se tiveres conta criada podes <b>saltar para o passo 6.2.</b>
