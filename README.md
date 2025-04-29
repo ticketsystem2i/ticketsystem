@@ -24,29 +24,29 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 ## 🗂️ Estrutura de Ficheiros
 
 ```bash
-├── /IMG/                     # Pasta que guarda o ficheiro .css
-      ├── /favicon_io/
-            ├── android-chrome-192x192.png
-            ├── android-chrome-512x512.png
-            ├── apple-touch-icon.png.png
-            ├── favicon.ico
-            ├── favicon-16x16.png
-            ├── favicon-32x32.png
-            └── site.webmanifest
-      ├── Logo_sem_texto.png           # Ficheiro .css (estilo da página web)
-      └── LogotipoTextoWhite.png
-├── /db/                      # Pasta que guarda o ficheiro .sql 
-      ├── cart_db.sql         # Ficheiro .sql (base de dados)
-├── /images/                  # Pasta que guarda as imagens que podem ser usadas na página web(opcional)
-      ├── food-1.png          # Ficheiro da foto
-      ├── food-2.png          # Ficheiro da foto
-      ├── food-3.png          # Ficheiro da foto
-      ├── food-4.png          # Ficheiro da foto
-      ├── food-5.png          # Ficheiro da foto
-├── /uploaded_img/            # Pasta que guarda as imagens que forem enviadas para a base de dados
-├── admin_page.php            # Ficheiro principal
-├── admin_update.php          # Ficheiro para dar update de um produto
-└── config.php                # Ficheiro para conectar à base de dados
+├── /IMG/                                           # Pasta que guarda as imagem
+      ├── /favicon_io/                              # Pasta que guarda o icon
+            ├── android-chrome-192x192.png          # Imagem com o icon
+            ├── android-chrome-512x512.png          # Imagem com o icon
+            ├── apple-touch-icon.png.png            # Imagem com o icon
+            ├── favicon.ico                         # Imagem com o icon
+            ├── favicon-16x16.png                   # Imagem com o icon
+            ├── favicon-32x32.png                   # Imagem com o icon
+            └── site.webmanifest                    # Imagem com o icon
+      ├── Logo_sem_texto.png                        # Imagem com o logotipo sem texto
+      └── LogotipoTextoWhite.png                    # Imagem com o logotipo branco
+├── conn.php                                        # Ficheiro para fazer a ligação a base de dados
+├── criaradmin.php                                  # Ficheiro para criar o admin
+├── criarTicket.php                                 # Ficheiro para criar os tickets
+├── delete_ticket.php                               # Ficheiro para apagar os tickets
+├── edit_ticket.php                                 # Ficheiro para editar os tickets
+├── gerirTickets.php                                # Ficheiro para gerir os tickets
+├── gerirTicketsADM.php                             # Ficheiro para o admin gerir os tickets
+├── index.php                                       # Ficheiro com o conteúdo principal
+├── ljmn_38667775_ticketsystem.sql                  # Ficheiro com a base de dados
+├── login.php                                       # Ficheiro para fazer o login
+├── logout.php                                      # Ficheiro para terminar a sessão
+└── register.php                                    # Ficheiro para fazer o resgisto do user
 ```
 
 ## 🚀 Como implementar o projeto
