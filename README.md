@@ -109,8 +109,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
   <img src="https://drive.google.com/uc?export=view&id=1l_R_tE8da6s8e9HvGkDegjVC8YS1pxSk" alt="Link" width="500">
   17. Ver <a href="http://ticketsystem.alojamento-gratis.com/tickets/login.php" target="_blank">resultado final</a>. <br>
   <br>
-  18. vídeo explicativo  🎥 [Ver demonstração em vídeo](https://drive.google.com/file/d/1Qj_Jbbrck95yBO9GA3mu1rtqYjdBRQtv/view?usp=sharing)
-
+  18. vídeo explicativo  <a href="https://drive.google.com/file/d/1Qj_Jbbrck95yBO9GA3mu1rtqYjdBRQtv/view?usp=sharing" target="_blank">Ver demonstração em vídeo</a>
 
   <br>
   Feito por João Martins - Líder/Fluxo (a14486) || Simão Ribeiro - Uploads/Documentação (a14549) || Francisco Martins - Backend/Status (a14568) || Francisco Rosas - Frontend/UI (a14598)
