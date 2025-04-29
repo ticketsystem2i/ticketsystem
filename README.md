@@ -24,8 +24,17 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 ## 🗂️ Estrutura de Ficheiros
 
 ```bash
-├── /css/                     # Pasta que guarda o ficheiro .css
-      ├── style.css           # Ficheiro .css (estilo da página web)
+├── /IMG/                     # Pasta que guarda o ficheiro .css
+      ├── /favicon_io/
+            ├── android-chrome-192x192.png
+            ├── android-chrome-512x512.png
+            ├── apple-touch-icon.png.png
+            ├── favicon.ico
+            ├── favicon-16x16.png
+            ├── favicon-32x32.png
+            └── site.webmanifest
+      ├── Logo_sem_texto.png           # Ficheiro .css (estilo da página web)
+      └── LogotipoTextoWhite.png
 ├── /db/                      # Pasta que guarda o ficheiro .sql 
       ├── cart_db.sql         # Ficheiro .sql (base de dados)
 ├── /images/                  # Pasta que guarda as imagens que podem ser usadas na página web(opcional)
